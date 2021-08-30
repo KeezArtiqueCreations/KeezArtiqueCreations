@@ -70,3 +70,9 @@ td{
 background-color: #3D8977 ;
 font-weight:bold;
 }
+footer { 
+text-allign: center;
+background-colour: #d8ede6;
+colour: #000000
+padding: 20px;
+}
