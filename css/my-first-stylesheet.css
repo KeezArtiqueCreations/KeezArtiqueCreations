@@ -70,6 +70,8 @@ td{
 background-color: #3D8977 ;
 font-weight:bold;
 }
-footer { 
+footer p.copyright { 
 background-colour: #d8ede6;
+float: left;
+margin-top: 0px;
 }
